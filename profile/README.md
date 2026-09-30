@@ -12,7 +12,7 @@ Use the materials below at the stage where the decision is still easy to change.
 
 | Decision | English | Русский | Қазақша |
 | --- | --- | --- | --- |
-| Plan a first hackathon | [Guide](https://info.stavleak.com/en/guides/pervyy-hakaton) | [Руководство](https://info.stavleak.com/ru/guides/pervyy-hakaton) | [Нұсқаулық](https://info.stavleak.com/kk/guides/pervyy-hakaton) |
+| Help first-time participants prepare | [Guide](https://info.stavleak.com/en/guides/pervyy-hakaton) | [Руководство](https://info.stavleak.com/ru/guides/pervyy-hakaton) | [Нұсқаулық](https://info.stavleak.com/kk/guides/pervyy-hakaton) |
 | Check a corporate track before launch | [Track readiness](https://info.stavleak.com/en/guides/gotovnost-korporativnogo-treka) | [Готовность трека](https://info.stavleak.com/ru/guides/gotovnost-korporativnogo-treka) | [Тректің дайындығы](https://info.stavleak.com/kk/guides/gotovnost-korporativnogo-treka) |
 | Set up university project submissions | [Submission workflow](https://info.stavleak.com/en/guides/universitet-hakatony-zhobany-tapsyru) | [Приём проектов](https://info.stavleak.com/ru/guides/universitet-hakatony-zhobany-tapsyru) | [Жобаны тапсыру](https://info.stavleak.com/kk/guides/universitet-hakatony-zhobany-tapsyru) |
 | Write a task teams can work on | [Task brief](https://info.stavleak.com/en/guides/brif-zadachi-hakatona) | [Бриф задачи](https://info.stavleak.com/ru/guides/brif-zadachi-hakatona) | [Тапсырма брифі](https://info.stavleak.com/kk/guides/brif-zadachi-hakatona) |
