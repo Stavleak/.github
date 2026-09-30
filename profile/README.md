@@ -1,3 +1,5 @@
+<p><img src="https://raw.githubusercontent.com/Stavleak/.github/main/profile/assets/logo-full-dark.svg" width="300" alt="Stavleak"></p>
+
 # Stavleak
 
 Stavleak проводит хакатоны для организаций и разрабатывает собственную рабочую среду события: заявки, команды, проекты, судейство и результаты.
