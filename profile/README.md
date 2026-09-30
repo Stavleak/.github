@@ -1,5 +1,11 @@
 # Stavleak
 
+Stavleak проводит хакатоны для организаций и разрабатывает собственную рабочую среду события: заявки, команды, проекты, судейство и результаты.
+
+## Practical tools / Практические инструменты
+
+[Organizer kit / Runbook организатора](https://github.com/Stavleak/hackathon-organizer-kit) · [Submission fallback / Резервная сдача](https://github.com/Stavleak/hackathon-submission-fallback-kit) · [Judge capacity / Нагрузка жюри](https://github.com/Stavleak/judging-capacity-calculator)
+
 We produce hackathons for organizations and provide the workspace for registration, teams, project submissions and judging. Our focus is Kazakhstan, with practical organizer materials in English, Russian and Kazakh.
 
 [Find a hackathon](https://www.stavleak.com/en/hackathons) · [Organize an event](https://org.stavleak.com/en) · [Read the guides](https://info.stavleak.com/en/guides)
@@ -45,3 +51,17 @@ Use the [project README kit](https://github.com/Stavleak/hackathon-project-readm
 Алдымен тапсырманы, бюджетті және ережелерді дайындаңыз. Командалар жұмысқа кіріспей тұрып, бағалау өлшемдері мен жобаларды қабылдау тәртібін келісіңіз. Кестеде әр материалдың толық қазақша нұсқасы бар.
 
 [Хакатондар](https://www.stavleak.com/kk/hackathons) · [Хакатон ұйымдастыру](https://org.stavleak.com/kk)
+
+## Как работает Stavleak
+
+Stavleak проводит хакатоны для организаций и разрабатывает собственную рабочую среду события: заявки, команды, задания, расписание, сдача проектов, судейство и результаты. Можно поручить согласованный цикл команде, провести событие вместе, организовать самостоятельно или использовать только открытые материалы.
+
+Участники собирают команду для конкретного события и сдают работу. Назначенные члены жюри проверяют материалы по правилам хакатона. Интерфейс продукта доступен на русском, казахском и английском; эти открытые инструменты подготовлены на русском и английском.
+
+[LinkedIn](https://www.linkedin.com/company/stavleak/) · [Сайт RU](https://stavleak.com/ru) · [Website EN](https://stavleak.com/en)
+
+## Contribute / Участвуйте
+
+Open an issue in the relevant resource with a fictional example and the decision it improves. Submit corrections in English or Russian and keep existing authored Kazakh materials. Include the check you ran.
+
+Откройте issue в подходящем репозитории с вымышленным примером и пояснением, какое решение он улучшает. Исправления можно присылать на русском или английском; сохраняйте готовые казахские материалы. Укажите выполненную проверку.
