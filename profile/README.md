@@ -21,10 +21,18 @@ Use the materials below at the stage where the decision is still easy to change.
 | Publish the event rules | [Rules](https://info.stavleak.com/en/guides/pravila-hakatona) | [Правила](https://info.stavleak.com/ru/guides/pravila-hakatona) | [Ережелер](https://info.stavleak.com/kk/guides/pravila-hakatona) |
 | Record a reproducible submission check | [Acceptance checklist](https://info.stavleak.com/en/guides/hackathon-submission-acceptance-checklist) | [Чек-лист приёмки](https://info.stavleak.com/ru/guides/hackathon-submission-acceptance-checklist) | [Қабылдау чек-листі](https://info.stavleak.com/kk/guides/hackathon-submission-acceptance-checklist) |
 | Check an AI prototype before the pitch | [AI demo check](https://info.stavleak.com/en/guides/proverka-ai-prototipa-do-pitcha) | [Проверка AI-прототипа](https://info.stavleak.com/ru/guides/proverka-ai-prototipa-do-pitcha) | [AI-прототипті тексеру](https://info.stavleak.com/kk/guides/proverka-ai-prototipa-do-pitcha) |
+| Write a README a reviewer can follow | [Project README](https://info.stavleak.com/en/guides/readme-hakatona-proveryaemoe-demo) | [README для проверки](https://info.stavleak.com/ru/guides/readme-hakatona-proveryaemoe-demo) | [Жобаның README файлы](https://info.stavleak.com/kk/guides/readme-hakatona-proveryaemoe-demo) |
+| Prepare the panel before the first pitch | [Jury calibration](https://info.stavleak.com/en/guides/kalibrovka-zhyuri-hakatona) | [Калибровка жюри](https://info.stavleak.com/ru/guides/kalibrovka-zhyuri-hakatona) | [Қазыларды калибрлеу](https://info.stavleak.com/kk/guides/kalibrovka-zhyuri-hakatona) |
 
 ## Keep a useful acceptance record
 
 Our [submission acceptance kit](https://github.com/Wezzeso/stavleak-hackathon-acceptance-kit) includes a 15-field record, fictional JSON and CSV examples, and a local Node.js validator. The validator checks record structure and consistency. A reviewer still needs to check access and reproduce the documented scenario. Technical acceptance and competition scoring are separate decisions.
+
+## Give teams and judges a practical starting point
+
+Use the [project README kit](https://github.com/Stavleak/hackathon-project-readme-kit) to document the tested setup, demo steps, evidence and known limits. The [jury calibration kit](https://github.com/Stavleak/hackathon-jury-calibration-kit) provides two fictional cases and a record of disagreements. Both kits include English, Russian and Kazakh instructions.
+
+[Download the jury calibration workbook](https://github.com/Stavleak/hackathon-jury-calibration-kit/blob/main/downloads/stavleak-jury-calibration.xlsx) to compare criterion scores, preserve missing values and exclude recusals. It is an illustrative exercise with three language tabs. Use the event's published rules and check the file in your spreadsheet software before working with real submissions.
 
 ## Материалы для организаторов
 
